@@ -1,0 +1,3 @@
+refisi : 
+1 : ton,kwintal
+2 : judul atas d beri background, text hasil diganti jlabel

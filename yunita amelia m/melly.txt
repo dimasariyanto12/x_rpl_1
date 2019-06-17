@@ -1,0 +1,4 @@
+penjualan motor
+revisi :
+1. ketika di klik lihat maka akan tampil semua data motor termasuk warna, kondisi dan merk
+2. ketika di klik beli juga semua detail tampil

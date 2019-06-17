@@ -1,0 +1,3 @@
+refisi penjualan kopi
+1: biaya admin 5% dari subtotal beli 
+2: kuantiti hanya berisi angka
